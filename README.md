@@ -1097,14 +1097,3 @@ public class LoginInterceptor implements HandlerInterceptor
 
 然后运行程序，当用户访问的不是公开url且用户没有登录时，该拦截器就会将用户的请求拦截并使用户跳转到登录页面进行登录。
 
-## 9.联系
-
-  If you have some questions after you see this article,you can tell your doubts in the comments area or you can find some info by  clicking these links.
-
-
-- [Blog@codingXiaxw's blog](http://codingxiaxw.cn)
-
-- [Weibo@codingXiaxw](http://weibo.com/u/5023661572?from=hissimilar_home&refer_flag=1005050003_)
-
-- [Zhihu@codingXiaxw](http://www.zhihu.com/people/e9f78fa34b8002652811ac348da3f671)  
-- [Github@codingXiaxw](https://github.com/codingXiaxw)
